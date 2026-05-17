@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1775034744387-hdovlw",
+    "email": "chetannandurkar99@gmail.com",
+    "name": "chetan",
+    "passwordHash": "$2a$10$L2hx6NyPXyG.GOTz/T0ZW.nsH.E.9O.fjdKo7yg7SOsrnTsqALxdC",
+    "provider": "local",
+    "createdAt": 1775034744562
+  },
+  {
+    "id": "1775035209957-8wepg2",
+    "email": "chetannandurkar@71gmail.com",
+    "name": "ayush",
+    "passwordHash": "$2a$10$O7XmGefKUuEcbs8VQEP72em3pZQvErZDHz2IUonjSCvrd8/ZWuxyi",
+    "provider": "local",
+    "createdAt": 1775035210114
+  },
+  {
+    "id": "1776232885571-44u7tm",
+    "email": "pradneshsormare@gmail.com",
+    "name": "Pradnesh sormare",
+    "provider": "google",
+    "createdAt": 1776232885571
+  }
+]
